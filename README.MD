@@ -2,7 +2,9 @@
 
 ## What is this?
 
-A simple online fix for Steam version of FlatOut 2 via OpenSpy service. 
+A simple online fix for Steam version of FlatOut 2 via OpenSpy service.
+
+![flatout2_online](flatout2_online.jpg) 
 
 ## How to use?
 
